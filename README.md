@@ -22,6 +22,6 @@ License
 
 You can use this module for free both in commercial or non-commercial projects.
 
-If possible, please vote to the [Feedback Case #31791](feedback://showreport?report_id=31791) to encourage Xojo to fix this issue without dirty workaround like this.
+If possible, please vote to the Feedback Case #31791 (`feedback://showreport?report_id=31791`) to encourage Xojo to fix this issue without dirty workaround like this.
 
 Copyright (C) 2014, Kenichi Maehashi. All Rights Reserved.
