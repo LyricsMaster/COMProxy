@@ -1,3 +1,8 @@
+**Update**: The issue has been fixed in Xojo 2018 Release 1 (`feedback://showreport?report_id=31791`).
+This workaround module is no longer required.
+
+----
+
 COMProxy
 =========================
 
@@ -21,7 +26,5 @@ License
 --------------------
 
 You can use this module for free both in commercial or non-commercial projects.
-
-If possible, please vote to the Feedback Case #31791 (`feedback://showreport?report_id=31791`) to encourage Xojo to fix this issue without dirty workaround like this.
 
 Copyright (C) 2014, Kenichi Maehashi. All Rights Reserved.
